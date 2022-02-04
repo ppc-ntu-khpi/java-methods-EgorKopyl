@@ -10,7 +10,7 @@
 ##### Тут ми задаємо відповідні змінні, та викликаємо фунцкію Exercise.ackermann і виводим відповідь на єкран.
 ### Код TestResult
 ![](https://github.com/ppc-ntu-khpi/java-methods-EgorKopyl/blob/master/src/4.png)
-### 1Результат роботи програми
+### Результат роботи програми
 ![](https://github.com/ppc-ntu-khpi/java-methods-EgorKopyl/blob/master/src/3.png)
 [![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
